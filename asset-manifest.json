@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e45df4c8.css",
+    "main.js": "/static/js/main.3c10343e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Urban Ladder.png": "/static/media/Urban Ladder.9b4f8c6256ac9b0f1e63.png",
+    "static/media/WavingHand.gif": "/static/media/WavingHand.f2709cf81362b2b577e4.gif",
+    "static/media/Chakra.png": "/static/media/Chakra.5d03327958bb9942370b.png",
+    "static/media/SteelNet.jpg": "/static/media/SteelNet.9955e9286bb5122d8abe.jpg",
+    "static/media/3.png": "/static/media/3.2faa0244250d475514b0.png",
+    "static/media/Meesho Clone.png": "/static/media/Meesho Clone.d773ce70487a4bfd1e47.png",
+    "static/media/TransBackPic.png": "/static/media/TransBackPic.616e1389ef8e910f2d70.png",
+    "static/media/4.svg": "/static/media/4.87d0f4ddf4653857461a4a08ca7103a7.svg",
+    "static/media/Apple Clone.png": "/static/media/Apple Clone.e97b9e20964b59b5557d.png",
+    "static/media/GrowFin.png": "/static/media/GrowFin.e294eab705ce68b0d78a.png",
+    "static/media/MongoDB.svg": "/static/media/MongoDB.6835c61a518a732eb8318d43dfe8f700.svg",
+    "static/media/Postman.svg": "/static/media/Postman.0b51589eade793331b5b92745aa5164f.svg",
+    "static/media/VSCode.svg": "/static/media/VSCode.966b688e87c592fc5bd1c84ca5f778a3.svg",
+    "static/media/Jest.svg": "/static/media/Jest.19f1f902afdd6d48345325d83d8ed33b.svg",
+    "static/media/React.svg": "/static/media/React.4e0c97009b885bfa75c5412262a46f5f.svg",
+    "static/media/Bootstrap.svg": "/static/media/Bootstrap.07b63bc2635bd0b6faffaaff07793e31.svg",
+    "static/media/Cypress.svg": "/static/media/Cypress.cbf8285c09899686eb3a1888154300e3.svg",
+    "static/media/Node.js.svg": "/static/media/Node.js.10c9e2aa0ca7edf36fceae25fec038a1.svg",
+    "static/media/Redux.svg": "/static/media/Redux.14c37d741a4ba75eb0a182d3eb367ce4.svg",
+    "static/media/JavaScript.svg": "/static/media/JavaScript.4c1b5332c1b1057928f6f06cf972c91c.svg",
+    "static/media/TypeScript.svg": "/static/media/TypeScript.8d9549db1a0f5d73a35aa5dab48a09f9.svg",
+    "index.html": "/index.html",
+    "static/media/CSS.svg": "/static/media/CSS.39769a8bd378bf410d6b381a8d88fa35.svg",
+    "static/media/Git.svg": "/static/media/Git.c08353563539c6459b353f29d8dd7bf2.svg",
+    "static/media/HTML.svg": "/static/media/HTML.8664168d5bc90b1a24396f85aadbf623.svg",
+    "static/media/Material.svg": "/static/media/Material.87264df237ee700ba78bb58ff701a6d3.svg",
+    "static/media/Firebase.svg": "/static/media/Firebase.0d5ec3e60614ea8e4d7abbf0729e969b.svg",
+    "static/media/NPM.svg": "/static/media/NPM.87689eab730642c86d2b01f3ef4a19e3.svg",
+    "static/media/Framer.svg": "/static/media/Framer.cd0e8acf350dd639e9e8c999f8539a5e.svg",
+    "main.e45df4c8.css.map": "/static/css/main.e45df4c8.css.map",
+    "main.3c10343e.js.map": "/static/js/main.3c10343e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45df4c8.css",
+    "static/js/main.3c10343e.js"
+  ]
+}
